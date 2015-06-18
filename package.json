@@ -1,0 +1,35 @@
+{
+  "name": "react-karma-webpack-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Justin Woo",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^4.4.3",
+    "babel-loader": "^4.0.0",
+    "chai": "^3.0.0",
+    "expect": "^1.6.0",
+    "karma": "^0.12.31",
+    "karma-chai-sinon": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-cli": "0.0.4",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-mocha": "^0.1.10",
+    "karma-sourcemap-loader": "^0.3.3",
+    "karma-webpack": "^1.5.0",
+    "mocha": "^2.1.0",
+    "react": "^0.13.3",
+    "rewire": "^2.3.4",
+    "rewire-webpack": "^1.0.0",
+    "sinon-chai": "^2.8.0",
+    "webpack": "^1.5.3"
+  },
+  "dependencies": {
+    "sinon": "^1.15.3",
+    "underscore": "^1.8.3"
+  }
+}
