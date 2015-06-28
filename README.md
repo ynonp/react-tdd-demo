@@ -25,6 +25,7 @@ A starter project for react client side web application utilizing karma and moch
 
 ## Configuration and files
 React TDD starter includes the following:
+
 1. `webpack.config.js` A webpack configuration file for normal builds 
 2. `tests.webpack.js` A webpack configuration file for test environment
 3. `package.json` Lists project dependencies
